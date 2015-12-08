@@ -1,6 +1,9 @@
 # Streamlapse V1
 --------------
-This document is still a work in progress. Thanks to Alyssa for the notes.
+
+[![Code Issues](https://www.quantifiedcode.com/api/v1/project/588b196dbacb4cb9aba262da642b9b24/badge.svg)](https://www.quantifiedcode.com/app/project/588b196dbacb4cb9aba262da642b9b24)
+
+This document is still a work in progress, and this is an old version of this code (that may end up being developed in parallel with the new version). Consider everything broken unless proven otherwise.
 
 See the [video training on using this software on YouTube](https://www.youtube.com/watch?v=yiS0ZR3wqU4)
 [![video training on using this software on YouTube](http://img.youtube.com/vi/yiS0ZR3wqU4/0.jpg)](http://www.youtube.com/watch?v=yiS0ZR3wqU4)
