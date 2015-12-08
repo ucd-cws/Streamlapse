@@ -3,6 +3,7 @@
 This document is still a work in progress. Thanks to Alyssa for the notes.
 
 See the [video training on using this software on YouTube](https://www.youtube.com/watch?v=yiS0ZR3wqU4)
+[![video training on using this software on YouTube](http://img.youtube.com/vi/yiS0ZR3wqU4/0.jpg)](http://www.youtube.com/watch?v=yiS0ZR3wqU4)
 
  1. Start with gage/logger data and photos from each river
  2. Copy code from *moving_hydrograph* folder=code for each video. Get new copy of this every time and then edit. Nick has blank copies and can give to you, or you can retrieve from this github repository for this **need to add moving_hydrograph folder**
